@@ -1,0 +1,35 @@
+ .nur {
+    display: flex;
+ justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white; 
+}
+
+.nur button{width: 192px;
+ height: 82px;  align-items: end;}
+
+header{display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: gray;
+    color: white;}
+
+.door {
+    background-image: url(./image\ 5.png);
+    width: 2440px;
+    height: 997px;
+    background-size: 100%;
+}
+
+main button {
+    width: 199px;
+    height: 60px;
+}
+
+
+
+.door{display: flex; align-items: center    ; justify-content: center; gap: 40px; padding-bottom: 20px;}
+.bir{background-color: yellow; }
+.ikki{background-color: black; color: white;}
+.door h1{background-color: yellow; width: 700px;height: 64px; text-align: center;  display: flex;align-items: center; justify-content: center; opacity: 0.5; padding-top:  20px;}
